@@ -1,0 +1,6 @@
+ZOR-LUMI E2E pipeline test
+status: FACT/HYPOTHESIS/UNKNOWN classified
+lineage: Genesis -> ZOR-CORE validation -> WriteRequest -> GitHub -> Provenance
+canonical branch: main (untouched)
+execution branch: e2e/zor-lumi-pipeline-20260918
+external equivalence: UNVERIFIED
