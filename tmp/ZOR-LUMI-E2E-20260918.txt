@@ -1,0 +1,6 @@
+# ZOR-LUMI GitHub Bridge E2E Test
+
+temporary test artifact
+operation_id: ZOR-LUMI-E2E-20260918
+purpose: verify create -> read-back -> delete on a non-canonical test branch
+canonical baseline: untouched
