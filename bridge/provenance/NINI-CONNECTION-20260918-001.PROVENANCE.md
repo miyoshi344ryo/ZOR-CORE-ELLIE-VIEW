@@ -1,0 +1,10 @@
+# NINI CONNECTION PROVENANCE
+
+operation_id: NINI-CONNECTION-20260918-001
+handoff_write_commit: 7c7f149f81db6e933f52a0170af4eb5555400d7e
+handoff_read_sha: 23008fe9cad36350de3c40009ba05e76b5f4f6a5
+result_write_commit: ad98875d9cf510bb8202efa8142e82d978186730
+result_read_sha: 23083c94f4a87330140427124f63af945b3e87ff
+ack_commit: 18f7435c191257e001903062015e801a586efb6c
+canonical_main_modified: NO
+status: PASS_FOR_CURRENT_INTERFACE_SCOPE
