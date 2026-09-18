@@ -1,2 +1,0 @@
-Lumi-side capability E2E test
-operation_id: LUMI-E2E-20260918
